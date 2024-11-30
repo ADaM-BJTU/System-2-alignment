@@ -39,7 +39,6 @@ The dataset utilized in our study was derived through sampling from the wildjail
 
 
 
-
 ## Acknowledgement
 - Hugging Face for their open-source transformer models.
 
