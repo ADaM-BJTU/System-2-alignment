@@ -37,6 +37,8 @@ details and experimental results will be presented in future versions.
 ## Experimental dataset
 The dataset utilized in our study was derived through sampling from the wildjailbreak dataset (see Raw Data [LINK](https://huggingface.co/datasets/allenai/wildjailbreak) for more details). 
 
+## PPO Code
+The reward model training and PPO training code can be found in [O1-CODER](https://github.com/ADaM-BJTU/O1-CODER/tree/main/src/prm_training) and [OpenRFT](https://github.com/ADaM-BJTU/OpenRFT/tree/main/src/PPO), respectively.
 
 
 ## Acknowledgement
