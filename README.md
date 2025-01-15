@@ -1,7 +1,7 @@
 # Don't Command, Cultivate: an Exploratory Study of System-2 Alignment
 
 <div align="center">
-Yuhang Wang, Jitao Sang* 
+Yuhang Wang, Yuxiang Zhang Yanxu Zhu, Xinyan Wen, Jitao Sang* 
 </div>
 <div align="center">
 Department of Computer Science
